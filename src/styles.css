@@ -1,1 +1,39 @@
+
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;500;600;700;800;900&family=Roboto+Mono:wght@100;200;300;400;500;600;700&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.ff-inter { font-family: 'Inter', sans-serif; }
+.ff-roboto-mono { font-family: 'Roboto Mono', monospace; }
+
+
+.header {
+  margin: 1rem auto 2rem;
+}
+
+.container {
+  padding-right: 1rem;
+  padding-left: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 376px) {
+  .container {
+      width: 240px;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+      width: 720px;
+  }
+}
+@media (min-width: 1440px) {
+  .container {
+      width: 1140px;
+  }
+}
