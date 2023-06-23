@@ -5,28 +5,28 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/template/header/header.component';
 import { FooterComponent } from './components/template/footer/footer.component';
-import { BannerCarroselComponent } from './components/template/banner-carrosel/banner-carrosel.component';
+
 import { SectionCategoryComponent } from './components/template/section-category/section-category.component';
 import { SectionProductsComponent } from './components/template/section-products/section-products.component';
 import { SectionSocialMediaComponent } from './components/template/section-social-media/section-social-media.component';
 import { SectionNewsletterComponent } from './components/template/section-newsletter/section-newsletter.component';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { CarrosselComponent } from './components/template/carrossel/carrossel.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     FooterComponent,
-    BannerCarroselComponent,
     SectionCategoryComponent,
     SectionProductsComponent,
     SectionSocialMediaComponent,
-    SectionNewsletterComponent
+    SectionNewsletterComponent,
+    CarrosselComponent,
+    
   ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule
-  ],
+  imports: [BrowserModule, AppRoutingModule, NgbModule ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}
