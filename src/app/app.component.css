@@ -1,11 +1,5 @@
 main {
-  background: rgb(63, 94, 251);
-  background: linear-gradient(
-    254deg,
-    rgba(63, 94, 251, 1) 9%,
-    rgba(252, 70, 107, 1) 87%
-  );
-
-  background-size: cover;
-  min-height: 60vh;
+  background: #FFFFFF;
+  
+  
 }
