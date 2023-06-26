@@ -18,7 +18,6 @@ Para isso, eles solicitaram nossa ajuda como desenvolvedores para criar um site 
 
 Utilizado algumas ferramentas e bibliotecas para o desenvolvimento
 
-<<<<<<< HEAD
 
 | :placard: Vitrine.Dev |  [Minha Vitrine Dev](https://cursos.alura.com.br/vitrinedev/graciliana)   |
 | -------------  | --- |
@@ -67,13 +66,3 @@ No desafio foi proposto dois temas para ser escolhidos, eu optei pelo temo Borea
 <div align="center">
 <img src="https://github.com/DanielBarret0/challenge-alura-7-edicao/blob/main/assets/gif/figma.png" alt="projeto no Figma">
 </div>
-=======
-| :placard: |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Graciliana - METEORA | Challenge**
-| :label: Tecnologias | javaScript, html, css, Typescript, Angular, node 
-| :rocket: URL         | <https://graciliana.github.io/Challenge-Oracle-ONE/>
-| :fire: Desafio     |criar um site de um e-commerce
-<https://icons8.com.br/icon/20909/html-5>
-## Disclaimer
->>>>>>> a1786e2ff6621db785003e97cebdc7550fdd5f63
