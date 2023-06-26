@@ -5,7 +5,7 @@ text-align: center;
 }
  .container-card {
   display: flex;
-  gap: 3rem;
+  gap: 2.8rem;
   flex-wrap: wrap;
 }
 .container {

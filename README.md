@@ -1,27 +1,26 @@
-# MeteoraChallengeFrontEnd
+# Meteora |Challenge Front End
+A Meteora é uma empresa do comércio eletrônico de roupas atemporais, casuais e sem gênero. Ela acredita que a moda é muito mais do que apenas tendências passageiras e oferece peças versáteis que se adaptam a qualquer estilo e ocasião.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
+A empresa tem por objetivo se tornar referência no mercado, atraindo mais clientes e impulsionando suas vendas, buscando alcançar um novo patamar e consolidando-se como uma empresa mais digital.
 
-## Development server
+Para isso, eles solicitaram nossa ajuda como desenvolvedores para criar um site de um e-commerce, que proporcione uma experiência de compra incrível para seus clientes, e que atendam aos seguintes requisitos:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Uma página inicial que contenha um buscador de produtos oferecidos pela empresa;
+- Um banner/carrossel que contenha informações sobre a coleção do momento;
+- Uma galeria com as categorias dos produtos disponíveis na loja;
+- Uma galeria com as informações dos produtos, como: imagem, nome do produto, descrição e link que leva até a página de “Saiba mais sobre o produto”.
+- Uma modal que contenha a imagem, o nome, a descrição, o preço, as variações do produto e a opção de adicionar na sacola;
+- Uma seção para divulgar as facilidades que a loja proporciona para realizar as compras;
+- Uma seção para cadastrar na newsletter e receber novidades;
+- Um rodapé com informação do site.
 
-## Code scaffolding
+Utilizado algumas ferramentas e bibliotecas para o desenvolvimento
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+| :placard: |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Graciliana - METEORA | Challenge**
+| :label: Tecnologias | javaScript, html, css, Typescript, Angular, node
+| :rocket: URL         | <https://graciliana.github.io/Challenge-Oracle-ONE/>
+| :fire: Desafio     |criar um site de um e-commerce
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Disclaimer
