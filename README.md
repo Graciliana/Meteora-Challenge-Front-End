@@ -19,8 +19,8 @@ Utilizado algumas ferramentas e bibliotecas para o desenvolvimento
 | :placard: |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Graciliana - METEORA | Challenge**
-| :label: Tecnologias | javaScript, html, css, Typescript, Angular, node
+| :label: Tecnologias | javaScript, html, css, Typescript, Angular, node 
 | :rocket: URL         | <https://graciliana.github.io/Challenge-Oracle-ONE/>
 | :fire: Desafio     |criar um site de um e-commerce
-
+<https://icons8.com.br/icon/20909/html-5>
 ## Disclaimer
