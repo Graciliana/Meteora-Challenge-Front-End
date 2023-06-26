@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Meteora |Alura Challenge Front End 7 edição
 A Meteora é uma empresa do comércio eletrônico de roupas atemporais, casuais e sem gênero. Ela acredita que a moda é muito mais do que apenas tendências passageiras e oferece peças versáteis que se adaptam a qualquer estilo e ocasião.
@@ -8,7 +8,7 @@ A empresa tem por objetivo se tornar referência no mercado, atraindo mais clien
 Para isso, eles solicitaram nossa ajuda como desenvolvedores para criar um site de um e-commerce, que proporcione uma experiência de compra incrível para seus clientes, e que atendam aos seguintes requisitos:
 
 
-
+<div align="center">
 | :placard: Vitrine.Dev |  [Minha Vitrine Dev](https://cursos.alura.com.br/vitrinedev/graciliana)   |
 | -------------  | --- |
 | :sparkles: Nome        | **Meteora**
@@ -26,11 +26,11 @@ Esse é um desafio proposto por Alura maior escola de tecnologia do Brasil, onde
 
 Com incentivo de usarmos a comunidade do Discord como apoio são esses nossos colegas do Desafio. *Mas é uma comundiade exclusiva para alunos por isso não posso deixar o link!*
 
-<img src="https://github.com/DanielBarret0/challenge-alura-7-edicao/blob/main/assets/gif/discord.png" width="348" height="148" alt="banner do discord">
+<img src="https://github.com/DanielBarret0/challenge-alura-7-edicao/blob/main/assets/gif/discord.png"  alt="banner do discord">
 
 Também temos nossos instrutores que estão nos desafiando e auxiliando durante esse período que organizam cursos e conteudos para cada semana tanto na plataforma da alura quanto no trello.
 
-<img src="https://github.com/DanielBarret0/challenge-alura-7-edicao/blob/main/assets/gif/desafiantes.png" width="348" height="148" alt="banner dos instrutores">
+<img src="https://github.com/DanielBarret0/challenge-alura-7-edicao/blob/main/assets/gif/desafiantes.png"  alt="banner dos instrutores">
 
 Recebemos na plataforma do **Trello** um guia para semana com tarefas para serem feitas onde podemos visualizar melhor cada etapa desse Desafio e conferir nosso progresso! 
 
@@ -52,7 +52,7 @@ Ao final desse desafio teremos eses conteudos prontos:
 # 🎨 Projeto no Figma
 Acesse esse projeto aqui [Projeto](https://www.figma.com/file/2TLgt8UjsWUViWlmpXu5Fz/Challenge-Front-end-%7C-Loja-Meteora?type=design&t=eSgWQyTIbkDXy2TQ-6)
 
-No desafio foi proposto dois temas para ser escolhidos, eu optei pelo temo Boreal.🌠
+🌠
 <div align="center">
 <img src="https://github.com/DanielBarret0/challenge-alura-7-edicao/blob/main/assets/gif/figma.png" alt="projeto no Figma">
 
