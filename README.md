@@ -8,7 +8,7 @@ A empresa tem por objetivo se tornar referência no mercado, atraindo mais clien
 Para isso, eles solicitaram nossa ajuda como desenvolvedores para criar um site de um e-commerce, que proporcione uma experiência de compra incrível para seus clientes, e que atendam aos seguintes requisitos:
 
 
-<div align="center">
+
 | :placard: Vitrine.Dev |  [Minha Vitrine Dev](https://cursos.alura.com.br/vitrinedev/graciliana)   |
 | -------------  | --- |
 | :sparkles: Nome        | **Meteora**
@@ -19,7 +19,7 @@ Para isso, eles solicitaram nossa ajuda como desenvolvedores para criar um site 
 | :laughing: Upgrades que fiz     | ****
 | :page_with_curl: Licença         | [<img src="https://img.shields.io/badge/LICENSE-MIT-green"/>](https://choosealicense.com/licenses/mit/) 
   
-</div>
+
 # 💪 Sobre o Challenge da Alura
 
 Esse é um desafio proposto por Alura maior escola de tecnologia do Brasil, onde recebemos um layout no figma completo e temos o desafio de fazer esse site por nossa conta em **4 semanas** como tempo proposto.
