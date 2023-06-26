@@ -12,12 +12,7 @@ Para isso, eles solicitaram nossa ajuda como desenvolvedores para criar um site 
 | :placard: Vitrine.Dev |  [Minha Vitrine Dev](https://cursos.alura.com.br/vitrinedev/graciliana)   |
 | -------------  | --- |
 | :sparkles: Nome        | **Meteora**
-| :label: Tecnologias | 
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
- <img width="48" height="48" src="https://img.icons8.com/color/48/jira.png" alt="jira"/> 
- <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
- <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
- <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+| :label: Tecnologias | <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/jira.png" alt="jira"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/><img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
 | 🎇: Bibliotecas | <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
 | :rocket: URL         | [Projeto]())
 | :fire: Desafio     | [Conheça o Challenge Alura](https://www.alura.com.br/challenges/front-end-6?host=https://cursos.alura.com.br)
